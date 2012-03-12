@@ -10,6 +10,24 @@ category: manual
 
 [Hattrick](http://www.hattrick.org "Hattrick") เป็นเกมที่คุณจะได้นำทีมสโมสรเสมือนจริงของคุณไปสู่ความยิ่งใหญ่ในการแข่งขันกับคนอื่นๆจากทั่วทุกมุมโลก [Hattrick](http://www.hattrick.org "Hattrick")  เป็นเกมที่ง่าย คุณสามารถจับทางได้ง่าย คุณสามารถเล่น [Hattrick](http://www.hattrick.org "Hattrick")  แม้ว่าคุณจะเข้ามาเล่นแค่หนึ่งหรือสองครั้งต่อสัปดาห์ (แต่พวกเราหวังว่าจะเห็นคุณเข้ามาเล่นบ่อยๆกว่านี้) ความท้าทายของเกมนี้ไม่ใช่การเอาชนะเกมนี้แต่อยู่ที่การแข่งขันกับคนอื่นๆ ในขณะแข่งขันหลายๆคนก็กลายมาเป็นเพื่อนกันซึ่งทำให้ [Hattrick](http://www.hattrick.org "Hattrick") เป็นโซเชียลเกมอีกด้วย
 
+
+> ![Prathet Thai](/images/prathetthai.png)
+> มีคนไทยเล่นมากกว่า 400 คน ณ ปัจจุบัน
+>
+
+>ณ ปัจจุบัน มีประเทศใน [Hattrick](http://www.hattrick.org "Hattrick") ทั้งหมด 128  ประเทศ จากทั้งหมด 196 ประเทศทั่วโลก
+>
+>![Nation](/images/nations.png)
+
+> ![Active users](/images/activeusers.png)
+> 
+> และ ณ ขณะนี้ Hattrick มีผู้เล่นมากกว่า 7 แสนคนจากทั่วทุกมุมโลกและล่าสุดพึ่งได้รับรางวัลเกมเล่นบนเว็ปยอดเยี่ยมสาขา [Favorite Simulation Game](http://hattrickunited.org/blog/2012/01/23/voted-favorite-simulation-game-of-2011/ "Voted Favorite Simulation Game of 2011") ประจำปี 2011 จากการโหวตจากทั่วโลก
+>
+>![Favorite Simulation Game 2011 at BBGsite](/images/favorite_sport_game.png)
+>
+> ซึ่งเป็นเครื่องรับประกันได้เลยว่า [Hattrick](http://www.hattrick.org "Hattrick") เป็นเกมเล่นบนเว็ปแนวบริหารทีมฟุตบอลที่เยี่ยมที่สุดเท่าที่เคยมีมา
+
+
 ![](/images/overall.png) ***งานโดยรวมของคุณ***
 
 คุณต้องทำหน้าที่เป็นทั้งผู้จัดการทีมและเจ้าของสโมสร คุณต้องวางแทคติกและแผนการ,ตัดสินว่าต้องฝึกซ้อมแบบไหน,เลือกผู้เล่นแบบไหนลงสนาม,คุณต้องซื้อและขายนักเตะ,ลงทุนขยายสนาม ในการจะประสบความสำเร็จได้นั้นมีเคล็ดลับคือต้องมีกลยุทธ์ในการทำทีมที่ดีและต้องมีแผนในระยะยาวที่ดี ความสำเร็จและความยิ่งใหญ่นั้นไม่ได้มาได้ง่ายๆ
@@ -38,4 +56,4 @@ category: manual
 [1]: http://www.hattrick.org/App_Themes/Standard/logo_green.png
 
 
-> **ปรับปรุงล่าสุดเมื่อ 4:13 PM Monday, March 12, 2012**
+> **ปรับปรุงล่าสุดเมื่อ 7:29 PM Monday, March 12, 2012**
