@@ -7,7 +7,7 @@ title: Index
   <h2><a href="{{ first_post.url }}">
     บทความใหม่ล่าสุด: {{ first_post.title }}
   </a></h2>
-  {{ first_post.content | truncate: 460 }}
+  <span>{{ first_post.content | truncate: 200 }}</span>
   <a id="more" href="{{ first_post.url }}">อ่านต่อ &raquo;</a>
 </div>
 <div class="grid_2 omega">
